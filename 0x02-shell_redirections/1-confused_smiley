@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "(Ôo)'" | tee /dev/tty
+echo "(Ôo)'" | tee
