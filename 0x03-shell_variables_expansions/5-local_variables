@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $("Local variables:" "Environment variables:" "Functions:")
+compgen -A variable -A function -e
