@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(-p)$(printenv)$(-F)"
+set
